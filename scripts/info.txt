@@ -1,0 +1,12 @@
+# NIMBLE models
+
+
+# nimble_prevalance.R - This script contains the NIMBLE model used for primary prevalance analyses for cumulative seroprevalance, self-test seroprevalance within study round, and covid-probably prevalance within round.
+
+# nimble_prevalance_mitigation.R - This script contains the NIMBLE model used to estiamte assocaition between: 
+  # seroprevalence ~ high-risk vs. low-risk mitigation variable
+  # self-test prevalence ~ high-risk vs. low-risk mitigation variable
+  # seroprevalence ~ livigin in multifamily or single-family dwelling
+  
+# nimble_prevalence_test_bias.R - This script contains the NIMBLE models used to estimte cumulative seroprevlance adjusted for sensitivty and specificity of the seroprevalence assays.
+
