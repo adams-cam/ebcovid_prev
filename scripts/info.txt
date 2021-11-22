@@ -6,7 +6,10 @@
 # nimble_prevalance_mitigation.R - This script contains the NIMBLE model used to estiamte assocaition between: 
   # seroprevalence ~ high-risk vs. low-risk mitigation variable
   # self-test prevalence ~ high-risk vs. low-risk mitigation variable
-  # seroprevalence ~ livigin in multifamily or single-family dwelling
   
-# nimble_prevalence_test_bias.R - This script contains the NIMBLE models used to estimte cumulative seroprevlance adjusted for sensitivty and specificity of the seroprevalence assays.
+# nimble_prevalence_test_bias.R - This script contains the NIMBLE models used to estimate cumulative seroprevlance adjusted for sensitivty and specificity of the seroprevalence assays.
+  # Round 1 
+  # Round 1+2
+  # ROund 1+2+3 (natural infection)
+  # Round 1+2+3 (natural infection or vaccination)
 
